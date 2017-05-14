@@ -1,4 +1,3 @@
 # hello-world
-My first Git Hub repository.
-I intend to use this repository for my learning.
+I intend to use this repository for learning web development.
 Trying to understand how Git Hub works through the start guide.
